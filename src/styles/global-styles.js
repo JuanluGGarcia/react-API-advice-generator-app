@@ -14,7 +14,11 @@ export const GlobalStyles = createGlobalStyle`
   }
   
   body{
-    font-family: sans-serif;
+    font-family: "Manrope", sans-serif;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 
   a{
