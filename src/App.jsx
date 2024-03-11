@@ -1,11 +1,11 @@
-import { Phrase } from './components/phrase/phrase';
+import Advice from './components/advice/Advice';
 import { GlobalStyles } from './styles/global-styles';
 
 const App = () => {
 	return (
 		<>
 			<GlobalStyles />
-			<Phrase />
+			<Advice />
 		</>
 	);
 };

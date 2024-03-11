@@ -1,1 +1,1 @@
-Utiliza esta API httpsapi.adviceslip.com para generar las frases aleatorias
+Utiliza esta API https://api.adviceslip.com para generar las frases aleatorias
