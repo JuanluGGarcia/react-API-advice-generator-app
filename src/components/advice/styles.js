@@ -28,7 +28,7 @@ const StyledPhrase = styled.p`
 `;
 
 const StyledSeparator = styled.img`
-	margin-bottom: 3rem;
+	margin-bottom: 4rem;
 `;
 
 const StyledBtnDice = styled.button`
@@ -45,7 +45,6 @@ const StyledBtnDice = styled.button`
 	border-radius: 50%;
 	background-color: ${COLORS.Light_Cyan};
 	color: ${COLORS.Grayish_Blue};
-	background: radial-gradient(circle ${COLORS.Light_Cyan} 20%);
 	border: none;
 
 	&:hover {
@@ -54,9 +53,6 @@ const StyledBtnDice = styled.button`
 		box-shadow: 0 0 10px rgba(83, 255, 170, 1);
 	}
 
-	@media screen and (min-width: 500px) {
-		right: 48%;
-	}
 `;
 
 export {
